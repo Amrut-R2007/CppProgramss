@@ -1,4 +1,5 @@
-My C++ Lab 🧪
+**My C++ Lab 🧪**
+
 Welcome! This is where I dump all my C++ logic, experiments, and daily practice. It’s a mix of university lab work, personal deep dives into hardware-level logic, and the occasional "aha!" moment in algorithmic thinking.
 
 📌 What’s Inside?
